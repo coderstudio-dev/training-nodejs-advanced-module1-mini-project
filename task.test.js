@@ -1,6 +1,6 @@
 const fs = require('fs').promises;
 const events = require('events');
-const TaskManager = require('./task'); // Assuming you've exported TaskManager from cliTaskManagerAsync.js
+const TaskManager = require('./task');
 
 jest.mock('fs', () => ({
   promises: {
