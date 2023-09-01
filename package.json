@@ -1,0 +1,14 @@
+{
+  "name": "training-nodejs-advanced-module1-mini-project",
+  "version": "1.0.0",
+  "description": "Project: Develop a command-line task manager that schedules and logs tasks using asynchronous operations and custom events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.4"
+  }
+}
